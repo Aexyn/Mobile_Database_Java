@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MainFile</label>
+	</settings>
+	<users>
+		<user>
+			<path>MainFileAman.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MainFile.jcp</path>
+		</project>
+	</projects>
+</workspace>
